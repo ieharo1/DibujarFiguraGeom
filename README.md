@@ -1,4 +1,4 @@
-﻿# Monitor de Conectividad a Servidores - Documentacion Operativa
+﻿# Monitor de Conectividad a Servidores
 
 Script principal: `server-connectivity-monitor.ps1`
 
